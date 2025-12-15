@@ -15,6 +15,7 @@ I've built everything from military recruitment systems to IoT dashboards to sec
 
 | Project | Description |
 |---------|-------------|
+| [Agentic Forge](https://github.com/agentic-forge) | AI agent framework - MCP servers, protocol gateways, LLM orchestration |
 | [arango-orm](https://github.com/kashifpk/arango-orm) | Python ORM for ArangoDB - SQLAlchemy-inspired, Pydantic-powered |
 | [sbomify](https://github.com/kashifpk/sbomify) | SBOM management platform (CycloneDX/SPDX compatible) |
 | [gde](https://github.com/kashifpk/gde) | Graph Data Explorer - visual graph exploration with workflow execution |
@@ -65,15 +66,15 @@ I've built everything from military recruitment systems to IoT dashboards to sec
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashifpk&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashifpk&theme=github_dark" alt="GitHub Profile" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifpk&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashifpk&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashifpk&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/compulife)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/kashifpk)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kashif.compulife.com.pk)
