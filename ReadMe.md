@@ -11,11 +11,17 @@ I've built everything from military recruitment systems to IoT dashboards to sec
 - Protocol gateways for aggregating multiple MCP tools
 - LLM orchestration and chat interfaces
 
+**[AGE Forge](https://age-forge.github.io/)** - An ecosystem initiative for Apache AGE (PostgreSQL's graph database extension):
+- AgeORM - Python library for intuitive graph database operations
+- Benchmarks comparing AGE with other graph database solutions
+- Web UI research and tooling
+
 ## Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | [Agentic Forge](https://github.com/agentic-forge) | AI agent framework - MCP servers, protocol gateways, LLM orchestration |
+| [AGE Forge](https://age-forge.github.io/) | Apache AGE ecosystem - ORM, benchmarks, and tooling for PostgreSQL graph databases |
 | [arango-orm](https://github.com/kashifpk/arango-orm) | Python ORM for ArangoDB - SQLAlchemy-inspired, Pydantic-powered |
 | [sbomify](https://github.com/kashifpk/sbomify) | SBOM management platform (CycloneDX/SPDX compatible) |
 | [gde](https://github.com/kashifpk/gde) | Graph Data Explorer - visual graph exploration with workflow execution |
